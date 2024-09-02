@@ -22,6 +22,6 @@ How to use these notebooks
          2.  The _events.txt file created by the bahevaior GUI
                -  frontCam_events_txt = r"G:\Grant\behavior_data\20240829\christielab\session004\20240829_christielab_session004_events.txt"
          3. the frame timestamps .txt file created by the behavior GUI
-   - frontCam_timestamps = r"G:\Grant\behavior_data\necab3\20240829\christielab\session004\20240829_christielab_session004_frontCam_timestamps.txt"
+               - frontCam_timestamps = r"G:\Grant\behavior_data\necab3\20240829\christielab\session004\20240829_christielab_session004_frontCam_timestamps.txt"
 
 
